@@ -1,46 +1,61 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="一般人の冒険"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「一般人の冒険」[l][r]
 
-メロスは激怒した。[l][r]
+私はごく普通の人間であった。。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+学生時代の成績も、運動能力も、コミュニケーション能力もそこそこ。[l][r]
 
-(中略)[l][r]
+*second
+[cm]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+[bg https://www.irasutoya.com/2018/11/blog-post_43.html time=500]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+そんな私が目を覚ますと、何かのゲームの中にいる。一面の草原である。[l][r]
+
+とにかく攻略する必要があるらしい。[l][r]
+
+そうこうしているうちに最初の敵である。[l][r]
+
+自分と同じくらいの背丈のキノコ的な物体に対して私は、[l][r]
+
+[link target=*tag_sleep] →なんとか踏もうとする [endlink][r]
+[link target=*tag_run] →どう頑張っても無理なのであきらめる [endlink][r]
 [s]
 
 *tag_sleep
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg https://www.irasutoya.com/2015/07/blog-post_82.html]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+踏むことなんてできるわけがなかった。[l][r]
+キノコにつぶされてゲームーオーバー[r]
 
 【 BAD END 】[l][cm]
 
-[jump target=*start]
+[jump target=*second]
 
 *tag_run
 
 [bg storage=run.jpg time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+キノコはあまりにも勇者らしくないその姿を一瞥し、去っていった[l][r]
+私は最初の敵をクリアした[r]
 
-【 GOOD END 】[l][cm]
+【 1 stage clear 】[l][cm]
 
-[jump target=*start]
+[cm]
+[bg https://www.irasutoya.com/2014/09/blog-post_664.html］
+キノコとの戦いを経て、私は少しも疲れていなかった。[l][r]
+
+自然体でいることの大切さを感じていると、場面は砂漠地帯へと移動した。[l][r]
+
+
+
