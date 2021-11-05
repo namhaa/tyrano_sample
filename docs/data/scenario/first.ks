@@ -14,7 +14,7 @@
 *second
 [cm]
 
-[bg https://www.irasutoya.com/2018/11/blog-post_43.html time=500]
+[bg storage=kinoko.png time=500]
 
 そんな私が目を覚ますと、何かのゲームの中にいる。一面の草原である。[l][r]
 
@@ -32,7 +32,7 @@
 
 [cm]
 
-[bg https://www.irasutoya.com/2015/07/blog-post_82.html]
+[bg storage=gakkari_tameiki_man.png time=500]
 
 踏むことなんてできるわけがなかった。[l][r]
 キノコにつぶされてゲームーオーバー[r]
@@ -43,19 +43,26 @@
 
 *tag_run
 
+[cm]
+
 [bg storage=run.jpg time=500]
 
-[cm]
 キノコはあまりにも勇者らしくないその姿を一瞥し、去っていった[l][r]
 私は最初の敵をクリアした[r]
 
 【 1 stage clear 】[l][cm]
 
-[cm]
-[bg https://www.irasutoya.com/2014/09/blog-post_664.html］
-キノコとの戦いを経て、私は少しも疲れていなかった。[l][r]
+*third
 
-自然体でいることの大切さを感じていると、場面は砂漠地帯へと移動した。[l][r]
+[bg storage=sabaku.png time=500］
+
+キノコとの戦いがあったものの、私は少しも疲れていなかった。[l][r]
+
+自然体でいることの大切さを感じていると、場面は砂漠地帯へと移動した。[r]
+
+【 To be continued... 】[l][cm]
+
+[jump target=*start]
 
 
 
